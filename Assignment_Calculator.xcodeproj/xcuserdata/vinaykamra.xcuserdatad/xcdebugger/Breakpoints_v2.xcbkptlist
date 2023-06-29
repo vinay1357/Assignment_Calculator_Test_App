@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8DE44CE8-7B4E-49C7-9C24-EB4D2CAC4042"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04FA112A-6C25-45E5-905D-16718EE55646"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/ViewModel/BannerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fontColor"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA46E804-85AB-4115-BA57-44E8F8CA7645"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/ViewModel/BannerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fontColor"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFF6D041-9910-46DE-8C85-49A5495D782B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/ViewModel/BannerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fontColor"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D79559A0-98DC-44A5-B1F3-49BFCA06147B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ThemeKit/Sources/ThemeKit/ThemeKit.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "success"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7ED3C12-7B7E-47D8-B543-CCDD6882850E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ThemeKit/Sources/ThemeKit/ThemeKit.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "error"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AD4E145-DDE0-43C6-AB0A-1AB94AB0E79F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ThemeKit/Sources/ThemeKit/ThemeKit.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "sucessfontColor(theme:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "915EC14B-68EE-4244-A8E4-76949217D9F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ThemeKit/Sources/ThemeKit/ThemeKit.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "errorfontColor(theme:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D45197E-C780-45B0-A2DF-4FBFCB5AADDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/Parser/Parser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "expr()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D45197E-C780-45B0-A2DF-4FBFCB5AADDD - 2f26925c814002a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment_Calculator.Parser.expr() throws -&gt; Swift.Double"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/Parser/Parser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "6D45197E-C780-45B0-A2DF-4FBFCB5AADDD - 2f26925c81400282"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment_Calculator.Parser.expr() throws -&gt; Swift.Double"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/Parser/Parser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "6D45197E-C780-45B0-A2DF-4FBFCB5AADDD - 2f26925c8140003f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment_Calculator.Parser.expr() throws -&gt; Swift.Double"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/Parser/Parser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "6D45197E-C780-45B0-A2DF-4FBFCB5AADDD - 2f26925c814000f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment_Calculator.Parser.expr() throws -&gt; Swift.Double"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/Parser/Parser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "6D45197E-C780-45B0-A2DF-4FBFCB5AADDD - 2f26925c814006a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment_Calculator.Parser.expr() throws -&gt; Swift.Double"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/Parser/Parser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "157C3E80-9E3D-4B9B-85B4-ACC8565A5FFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ConversionError"
+            landmarkType = "13">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE27DBF0-A961-47BF-8AB0-2AD690A0D73B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/Parser/Parser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "getNextToken()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "267445F6-3FE8-4CA8-BC22-6818894CEB14"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/Networking/NetworkApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "perform(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6029DF01-6D76-419F-A4DE-3F3F2FF26ED5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_CalculatorTests/Assignment_CalculatorTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "testPerformanceExample()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5374E379-BFF2-41C7-B147-98EB4A91E0F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_CalculatorTests/Assignment_CalculatorTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "testGetTrigoValueForSin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F8BD08E-F565-42A8-A2B1-CD8C1554A8B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/Networking/OnlineOperationProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "valueForOperation(inputValue:operationType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F8BD08E-F565-42A8-A2B1-CD8C1554A8B4 - f5db5b39f5d9f1eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; Swift.Double in Assignment_Calculator.BitCoinOnlineOperation.valueForOperation(inputValue: Swift.String, operationType: CalculatorUIComponent.CalculatorButton) throws -&gt; Swift.Optional&lt;Swift.Double&gt;"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/Networking/OnlineOperationProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "1F8BD08E-F565-42A8-A2B1-CD8C1554A8B4 - 5a26fc3970749f36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Assignment_Calculator.BitCoinOnlineOperation.valueForOperation(inputValue: Swift.String, operationType: CalculatorUIComponent.CalculatorButton) async throws -&gt; Swift.Optional&lt;Swift.Double&gt;"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/Networking/OnlineOperationProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A68AC2D-A5D8-4F72-AE72-844E42694C18"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "onlineOperation(input:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A68AC2D-A5D8-4F72-AE72-844E42694C18 - 31f9629b37b6a62a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) await resume partial function for closure #1 @Sendable () async -&gt; () in Assignment_Calculator.CalculatorViewModel.onlineOperation(input: Swift.String, type: CalculatorUIComponent.CalculatorButton) -&gt; ()"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "8A68AC2D-A5D8-4F72-AE72-844E42694C18 - a784635e9742e34f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Assignment_Calculator.CalculatorViewModel.onlineOperation(input: Swift.String, type: CalculatorUIComponent.CalculatorButton) -&gt; ()"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "8A68AC2D-A5D8-4F72-AE72-844E42694C18 - c2260d12fcfc1836"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Assignment_Calculator.CalculatorViewModel.onlineOperation(input: Swift.String, type: CalculatorUIComponent.CalculatorButton) -&gt; ()"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "8A68AC2D-A5D8-4F72-AE72-844E42694C18 - 9b61538f9a9b11b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () async -&gt; () in Assignment_Calculator.CalculatorViewModel.onlineOperation(input: Swift.String, type: CalculatorUIComponent.CalculatorButton) -&gt; ()"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "196"
+                  endingLineNumber = "196"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D7A5BCA-4890-4BA4-A6C3-6FFB0E7BC4F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "onlineOperation(input:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81C225C7-6DFA-4B7C-B3CE-95F2A0E9D92E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "onlineOperation(input:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7270225-6867-4321-8081-1703747562DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "onlineOperation(input:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E7270225-6867-4321-8081-1703747562DD - 59354c2819c116c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Assignment_Calculator.CalculatorViewModel.onlineOperation(input: Swift.String, type: CalculatorUIComponent.CalculatorButton) -&gt; ()"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E7270225-6867-4321-8081-1703747562DD - cc2c8d09a7e61f9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in Assignment_Calculator.CalculatorViewModel.onlineOperation(input: Swift.String, type: CalculatorUIComponent.CalculatorButton) -&gt; ()"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "E7270225-6867-4321-8081-1703747562DD - 66a583bf4bf45ac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Assignment_Calculator.CalculatorViewModel.onlineOperation(input: Swift.String, type: CalculatorUIComponent.CalculatorButton) -&gt; ()"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "E7270225-6867-4321-8081-1703747562DD - c2260d12fcfc1983"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Assignment_Calculator.CalculatorViewModel.onlineOperation(input: Swift.String, type: CalculatorUIComponent.CalculatorButton) -&gt; ()"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/ViewModel/CalculatorViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1781491-A2A1-4C61-B1BB-8C3938ED0259"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/Networking/OnlineOperationProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "valueForOperation(inputValue:operationType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D1781491-A2A1-4C61-B1BB-8C3938ED0259 - b74fb24274e7105a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Assignment_Calculator.BitCoinOnlineOperation.valueForOperation(inputValue: Swift.String, operationType: CalculatorUIComponent.CalculatorButton) async throws -&gt; Swift.Optional&lt;Swift.Double&gt;"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/Networking/OnlineOperationProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "D1781491-A2A1-4C61-B1BB-8C3938ED0259 - 5a26fc3970749c78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Assignment_Calculator.BitCoinOnlineOperation.valueForOperation(inputValue: Swift.String, operationType: CalculatorUIComponent.CalculatorButton) async throws -&gt; Swift.Optional&lt;Swift.Double&gt;"
+                  moduleName = "Assignment_Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinaykamra/Downloads/Assignment_Calculator%203/Assignment_Calculator/Networking/OnlineOperationProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4780E731-3EF5-40FD-9D47-8BB0A9584DC3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/Networking/OnlineOperationProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "valueForOperation(inputValue:operationType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "872F7428-41BB-4241-9135-92C6719B2D05"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment_Calculator/Networking/NetworkApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "perform(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
