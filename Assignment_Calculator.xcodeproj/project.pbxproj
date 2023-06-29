@@ -15,6 +15,8 @@
 		18F0974B2A4A1A5100F9EDA0 /* Assignment_CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F0974A2A4A1A5100F9EDA0 /* Assignment_CalculatorUITestsLaunchTests.swift */; };
 		C41C52B12A4DA66C005B9711 /* CalculatorOperationUtilityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41C52B02A4DA66C005B9711 /* CalculatorOperationUtilityTests.swift */; };
 		C42638892A4C844C0092F13C /* ThemeKit in Frameworks */ = {isa = PBXBuildFile; productRef = C42638882A4C844C0092F13C /* ThemeKit */; };
+		C42D022F2A4E28BD009A2DF5 /* Calculator in Frameworks */ = {isa = PBXBuildFile; productRef = C42D022E2A4E28BD009A2DF5 /* Calculator */; };
+		C42D02322A4E294B009A2DF5 /* Calculator in Frameworks */ = {isa = PBXBuildFile; productRef = C42D02312A4E294B009A2DF5 /* Calculator */; };
 		C43CA3092A4E1696004E854B /* Calculator in Frameworks */ = {isa = PBXBuildFile; productRef = C43CA3082A4E1696004E854B /* Calculator */; };
 		C45D77442A4CC92E0030FBD2 /* CalculatorUIComponent in Frameworks */ = {isa = PBXBuildFile; productRef = C45D77432A4CC92E0030FBD2 /* CalculatorUIComponent */; };
 		C45D774E2A4D9FA30030FBD2 /* ParserTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C45D774D2A4D9FA30030FBD2 /* ParserTest.swift */; };
@@ -58,8 +60,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C42D02322A4E294B009A2DF5 /* Calculator in Frameworks */,
 				C43CA3092A4E1696004E854B /* Calculator in Frameworks */,
 				C47ED51D2A4C7E5A0022D229 /* ThemeKit in Frameworks */,
+				C42D022F2A4E28BD009A2DF5 /* Calculator in Frameworks */,
 				C42638892A4C844C0092F13C /* ThemeKit in Frameworks */,
 				C45D77442A4CC92E0030FBD2 /* CalculatorUIComponent in Frameworks */,
 			);
@@ -161,6 +165,8 @@
 				C42638882A4C844C0092F13C /* ThemeKit */,
 				C45D77432A4CC92E0030FBD2 /* CalculatorUIComponent */,
 				C43CA3082A4E1696004E854B /* Calculator */,
+				C42D022E2A4E28BD009A2DF5 /* Calculator */,
+				C42D02312A4E294B009A2DF5 /* Calculator */,
 			);
 			productName = Assignment_Calculator;
 			productReference = 18F0972A2A4A1A4D00F9EDA0 /* Assignment_Calculator.app */;
@@ -236,7 +242,7 @@
 			);
 			mainGroup = 18F097212A4A1A4D00F9EDA0;
 			packageReferences = (
-				C43CA30A2A4E24D5004E854B /* XCRemoteSwiftPackageReference "Calculator" */,
+				C42D02302A4E294B009A2DF5 /* XCRemoteSwiftPackageReference "Calculator" */,
 			);
 			productRefGroup = 18F0972B2A4A1A4D00F9EDA0 /* Products */;
 			projectDirPath = "";
@@ -610,7 +616,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		C43CA30A2A4E24D5004E854B /* XCRemoteSwiftPackageReference "Calculator" */ = {
+		C42D02302A4E294B009A2DF5 /* XCRemoteSwiftPackageReference "Calculator" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/vinay1357/Calculator";
 			requirement = {
@@ -624,6 +630,15 @@
 		C42638882A4C844C0092F13C /* ThemeKit */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = ThemeKit;
+		};
+		C42D022E2A4E28BD009A2DF5 /* Calculator */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = Calculator;
+		};
+		C42D02312A4E294B009A2DF5 /* Calculator */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C42D02302A4E294B009A2DF5 /* XCRemoteSwiftPackageReference "Calculator" */;
+			productName = Calculator;
 		};
 		C43CA3082A4E1696004E854B /* Calculator */ = {
 			isa = XCSwiftPackageProductDependency;
