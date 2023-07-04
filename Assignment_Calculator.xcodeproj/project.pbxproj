@@ -10,16 +10,15 @@
 		18F0972E2A4A1A4D00F9EDA0 /* Assignment_CalculatorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F0972D2A4A1A4D00F9EDA0 /* Assignment_CalculatorApp.swift */; };
 		18F097322A4A1A5100F9EDA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18F097312A4A1A5100F9EDA0 /* Assets.xcassets */; };
 		18F097352A4A1A5100F9EDA0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18F097342A4A1A5100F9EDA0 /* Preview Assets.xcassets */; };
-		18F0973F2A4A1A5100F9EDA0 /* Assignment_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F0973E2A4A1A5100F9EDA0 /* Assignment_CalculatorTests.swift */; };
 		18F097492A4A1A5100F9EDA0 /* Assignment_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F097482A4A1A5100F9EDA0 /* Assignment_CalculatorUITests.swift */; };
 		18F0974B2A4A1A5100F9EDA0 /* Assignment_CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F0974A2A4A1A5100F9EDA0 /* Assignment_CalculatorUITestsLaunchTests.swift */; };
-		C41C52B12A4DA66C005B9711 /* CalculatorOperationUtilityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41C52B02A4DA66C005B9711 /* CalculatorOperationUtilityTests.swift */; };
 		C42638892A4C844C0092F13C /* ThemeKit in Frameworks */ = {isa = PBXBuildFile; productRef = C42638882A4C844C0092F13C /* ThemeKit */; };
 		C42D022F2A4E28BD009A2DF5 /* Calculator in Frameworks */ = {isa = PBXBuildFile; productRef = C42D022E2A4E28BD009A2DF5 /* Calculator */; };
 		C42D02322A4E294B009A2DF5 /* Calculator in Frameworks */ = {isa = PBXBuildFile; productRef = C42D02312A4E294B009A2DF5 /* Calculator */; };
 		C43CA3092A4E1696004E854B /* Calculator in Frameworks */ = {isa = PBXBuildFile; productRef = C43CA3082A4E1696004E854B /* Calculator */; };
+		C45A84C02A52D1E700D6889C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C45A84BF2A52D1E700D6889C /* GoogleService-Info.plist */; };
+		C45A84C62A52DBCB00D6889C /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = C45A84C52A52DBCB00D6889C /* FirebaseCrashlytics */; };
 		C45D77442A4CC92E0030FBD2 /* CalculatorUIComponent in Frameworks */ = {isa = PBXBuildFile; productRef = C45D77432A4CC92E0030FBD2 /* CalculatorUIComponent */; };
-		C45D774E2A4D9FA30030FBD2 /* ParserTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C45D774D2A4D9FA30030FBD2 /* ParserTest.swift */; };
 		C47ED51D2A4C7E5A0022D229 /* ThemeKit in Frameworks */ = {isa = PBXBuildFile; productRef = C47ED51C2A4C7E5A0022D229 /* ThemeKit */; };
 /* End PBXBuildFile section */
 
@@ -46,13 +45,11 @@
 		18F097312A4A1A5100F9EDA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18F097342A4A1A5100F9EDA0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		18F0973A2A4A1A5100F9EDA0 /* Assignment_CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Assignment_CalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		18F0973E2A4A1A5100F9EDA0 /* Assignment_CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_CalculatorTests.swift; sourceTree = "<group>"; };
 		18F097442A4A1A5100F9EDA0 /* Assignment_CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Assignment_CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F097482A4A1A5100F9EDA0 /* Assignment_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_CalculatorUITests.swift; sourceTree = "<group>"; };
 		18F0974A2A4A1A5100F9EDA0 /* Assignment_CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		C41C52B02A4DA66C005B9711 /* CalculatorOperationUtilityTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorOperationUtilityTests.swift; sourceTree = "<group>"; };
 		C447AFAA2A4C5BBD007447B7 /* Assignment-Calculator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Assignment-Calculator-Info.plist"; sourceTree = SOURCE_ROOT; };
-		C45D774D2A4D9FA30030FBD2 /* ParserTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParserTest.swift; sourceTree = "<group>"; };
+		C45A84BF2A52D1E700D6889C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "Assignment_Calculator/FireBase Plist/GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +61,7 @@
 				C43CA3092A4E1696004E854B /* Calculator in Frameworks */,
 				C47ED51D2A4C7E5A0022D229 /* ThemeKit in Frameworks */,
 				C42D022F2A4E28BD009A2DF5 /* Calculator in Frameworks */,
+				C45A84C62A52DBCB00D6889C /* FirebaseCrashlytics in Frameworks */,
 				C42638892A4C844C0092F13C /* ThemeKit in Frameworks */,
 				C45D77442A4CC92E0030FBD2 /* CalculatorUIComponent in Frameworks */,
 			);
@@ -89,10 +87,12 @@
 		18F097212A4A1A4D00F9EDA0 = {
 			isa = PBXGroup;
 			children = (
+				C45A84BF2A52D1E700D6889C /* GoogleService-Info.plist */,
 				18F0972C2A4A1A4D00F9EDA0 /* Assignment_Calculator */,
 				18F0973D2A4A1A5100F9EDA0 /* Assignment_CalculatorTests */,
 				18F097472A4A1A5100F9EDA0 /* Assignment_CalculatorUITests */,
 				18F0972B2A4A1A4D00F9EDA0 /* Products */,
+				C45A84C42A52DBCB00D6889C /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -128,9 +128,6 @@
 		18F0973D2A4A1A5100F9EDA0 /* Assignment_CalculatorTests */ = {
 			isa = PBXGroup;
 			children = (
-				18F0973E2A4A1A5100F9EDA0 /* Assignment_CalculatorTests.swift */,
-				C45D774D2A4D9FA30030FBD2 /* ParserTest.swift */,
-				C41C52B02A4DA66C005B9711 /* CalculatorOperationUtilityTests.swift */,
 			);
 			path = Assignment_CalculatorTests;
 			sourceTree = "<group>";
@@ -144,6 +141,13 @@
 			path = Assignment_CalculatorUITests;
 			sourceTree = "<group>";
 		};
+		C45A84C42A52DBCB00D6889C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -154,6 +158,7 @@
 				18F097262A4A1A4D00F9EDA0 /* Sources */,
 				18F097272A4A1A4D00F9EDA0 /* Frameworks */,
 				18F097282A4A1A4D00F9EDA0 /* Resources */,
+				C45A84C72A541A1A00D6889C /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -167,6 +172,7 @@
 				C43CA3082A4E1696004E854B /* Calculator */,
 				C42D022E2A4E28BD009A2DF5 /* Calculator */,
 				C42D02312A4E294B009A2DF5 /* Calculator */,
+				C45A84C52A52DBCB00D6889C /* FirebaseCrashlytics */,
 			);
 			productName = Assignment_Calculator;
 			productReference = 18F0972A2A4A1A4D00F9EDA0 /* Assignment_Calculator.app */;
@@ -243,6 +249,7 @@
 			mainGroup = 18F097212A4A1A4D00F9EDA0;
 			packageReferences = (
 				C42D02302A4E294B009A2DF5 /* XCRemoteSwiftPackageReference "Calculator" */,
+				C45A84BA2A52D10D00D6889C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 			);
 			productRefGroup = 18F0972B2A4A1A4D00F9EDA0 /* Products */;
 			projectDirPath = "";
@@ -262,6 +269,7 @@
 			files = (
 				18F097352A4A1A5100F9EDA0 /* Preview Assets.xcassets in Resources */,
 				18F097322A4A1A5100F9EDA0 /* Assets.xcassets in Resources */,
+				C45A84C02A52D1E700D6889C /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,6 +289,28 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		C45A84C72A541A1A00D6889C /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}/Contents/Resources/DWARF/${TARGET_NAME}",
+				"$(SRCROOT)/$(BUILT_PRODUCTS_DIR)/$(INFOPLIST_PATH)\n",
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${BUILD_DIR%/Build/*}/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/run\"\n\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		18F097262A4A1A4D00F9EDA0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -294,9 +324,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C45D774E2A4D9FA30030FBD2 /* ParserTest.swift in Sources */,
-				18F0973F2A4A1A5100F9EDA0 /* Assignment_CalculatorTests.swift in Sources */,
-				C41C52B12A4DA66C005B9711 /* CalculatorOperationUtilityTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -446,6 +473,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_ASSET_PATHS = "\"Assignment_Calculator/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -455,12 +483,13 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "VInay.Assignment-Calculator";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.vinay.calculator-assignment";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -484,12 +513,13 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "VInay.Assignment-Calculator";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.vinay.calculator-assignment";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -624,6 +654,14 @@
 				kind = branch;
 			};
 		};
+		C45A84BA2A52D10D00D6889C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.11.0;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -643,6 +681,11 @@
 		C43CA3082A4E1696004E854B /* Calculator */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = Calculator;
+		};
+		C45A84C52A52DBCB00D6889C /* FirebaseCrashlytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C45A84BA2A52D10D00D6889C /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCrashlytics;
 		};
 		C45D77432A4CC92E0030FBD2 /* CalculatorUIComponent */ = {
 			isa = XCSwiftPackageProductDependency;
